@@ -13,8 +13,6 @@ https://wintv.fun/360/108/index.m3u8
 http://str1.cvtv.xyz/vtv5?token=live
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/VTV5TNB.png",VTV5 Tây Nam Bộ
 https://wintv.fun/360/157/index.m3u8
-#EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/THQH.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
-http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/VTV5TN.png",VTV5 Tây Nguyên 
 https://wintv.fun/360/207/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/VTV7.png",VTV7
@@ -25,3 +23,43 @@ https://wintv.fun/360/115/index.m3u8
 https://wintv.fun/360/8/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/VTV6CT.png",VTV Cần Thơ
 https://wintv.fun/360/98/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc1.png",VTC1
+http://str1.cvtv.xyz/vtc1?token=live
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc2.png",VTC2
+https://1117141481.vnns.net/VTC2/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc3.png",VTC3
+https://1117141481.vnns.net/VTC3/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc4.png",VTC4
+https://1117141481.vnns.net/VTC4/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc5.png",VTC5
+https://1117141481.vnns.net/VTC5/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc6.png",VTC6
+https://1117141481.vnns.net/VTC6/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc7.png",VTC7
+https://1117141481.vnns.net/VTC7/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc8.png",VTC8
+https://1117141481.vnns.net/VTC8/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc9.png",VTC9
+https://1117141481.vnns.net/VTC9/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" group-logo="hhttps://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc10.png",VTC10
+https://1117141481.vnns.net/VTC10/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc11.png",VTC11
+https://1117141481.vnns.net/VTC11/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc14.png",VTC14
+https://1117141481.vnns.net/VTC14/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/vtc/vtc16.png",VTC16
+https://1117141481.vnns.net/VTC16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| VTC" group-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/ty.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/vov.png",VOV TV
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/ty.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/annd.png",ANTV — Truyền Hình Công An Nhân Dân
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" group-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/ty.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/vnews.png",VNews — Truyền Hình Thông Tấn Xã Việt Nam
+https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
+#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" group-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/ty.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/thnd.png",Truyền Hình Nhân Dân
+https://arpt.tvic.vn/live/nhandan720/chunklist.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" group-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/ty.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/qpvn.png",QPVN — Truyền Hình Quốc Phòng Việt Nam
+https://playlive.qpvn.vn/live/qpvn.m3u8
+#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" group-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/ty.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/qh.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
+http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
