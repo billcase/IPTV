@@ -64,19 +64,19 @@ https://playlive.qpvn.vn/live/qpvn.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" group-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/ty.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/20/9dq9w4e7_quoc-hoif34869710e82e140f5978008fada9504_296_168.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/185783-505482-HTV1.png",HTV 1
+#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/185783-505482-HTV1.png",HTV 1
 https://htvc271120.cdn.vnns.io/9fb6a2afe4a78fd94a766bf5b04a77ad1712288570/htv1.720p.nimble.tms/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/904719-HTV2HD.png",HTV 2
+#EXTINF:-1 tvg-id="htv2hd"  group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/904719-HTV2HD.png",HTV 2
 https://htvc271120.cdn.vnns.io/e9df285ed3696248179d1d3c30d62c1b1712288589/htv2.cat.720p.tms/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/750643-HTV3.png",HTV 3
+#EXTINF:-1 tvg-id="htv3"  group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/750643-HTV3.png",HTV 3
 https://htvc271120.cdn.vnns.io/42dffc854b230146e4578f6849ad0b081712288604/htv3.720p.nimble.tms/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://hplus.com.vn/xem-kenh-htv-keys-2528.html",HTVC KEY
+#EXTINF:-1 tvg-id=""  group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://hplus.com.vn/xem-kenh-htv-keys-2528.html",HTVC KEY
 https://htvc271120.cdn.vnns.io/65bec9f1dd7d3a6099b740c247bc16e81712288629/htv4.480p.nimble.tms/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/402721-HTVCoop.png",HTVC CO.OP
+#EXTINF:-1 tvg-id=""  group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/402721-HTVCoop.png",HTVC CO.OP
 https://htvc271120.cdn.vnns.io/77d4810f950d88e647280f38bde4af731712288696/htvcoop-480/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/422430-665121-HTV9HD.png",HTVC 9
+#EXTINF:-1 tvg-id=""  group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/422430-665121-HTV9HD.png",HTVC 9
 https://htvc271120.cdn.vnns.io/0787258ad7eea1d18bb274b2fabbd0b41712288738/htv9.cat.720p.tms/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/546898-111250-HTVTT.png",HTVC THỂ THAO
+#EXTINF:-1 tvg-id=""  group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/07/16/546898-111250-HTVTT.png",HTVC THỂ THAO
 https://htvc271120.cdn.vnns.io/875e29ddc6cfa42835167432531e45921712288769/htvthethao.adm.720p.tms/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| HTVC" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/591916-pHIM.png",HTVC Phim HD
