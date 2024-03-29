@@ -51,7 +51,7 @@ https://1117141481.vnns.net/VTC14/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" group-logo="https://github.com/billcase/IPTV/blob/main/vtc/VTC.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/hscibubb_vtc16de2a2157774943ce86f25d901abb03b3_296_168.png",VTC16
 https://1117141481.vnns.net/VTC16/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết yếu" group-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/ty.png" tvg-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/vov.png",VOV TV
+#EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết yếu" group-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/ty.png" tvg-logo="https://admin.vov.gov.vn//UploadFolder/DonVi_Image/68d43961-b50b-4403-b666-4da51296ca61.png",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" group-logo="https://github.com/billcase/IPTV/blob/main/thietyeu/ty.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/29/6wcqgx0o_antv6f5c0b4042fc7777d54ce1b0ba22a056_296_168.png",ANTV — Truyền Hình Công An Nhân Dân
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
