@@ -4,9 +4,9 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/13/4rioq827_vtv1-1972a965935f7cfcf31fd8ff2ea455ece_296_168.png",VTV1
 https://1011154949.vnns.net/de96640898e96805a2a9ef769e4099d71712286185/vtv1hd.adm.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/wwr58vyf_vtv249f41e6ff68d0b172d0c63dad0cf48d3_296_168.png",VTV2
-http://str1.cvtv.xyz/vtv2?token=live
+http://123.21.223.9:8081/sctv/s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8?token=nXNneC5niQSKLywathh3UQ&e=1711693145
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/15/8s0di0gq_thumb-v3b222f92c6f1851e3ae9b3a30496dc61d_296_168.png",VTV3
-http://str1.cvtv.xyz/VTV3HD?token=live
+https://edge1.laotv.la/live/VTV3/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6dufbhs9_vtv4_296_168.png",VTV4
 https://wintv.fun/360/108/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/28/wiijk2v7_vtv5_28082023f03f13f82602dddaad82275cb31c8112_296_168.png",VTV5
