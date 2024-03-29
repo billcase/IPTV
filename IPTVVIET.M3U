@@ -68,11 +68,23 @@ http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 https://1011154949.vnns.net/653d7cdec4773b0d33b503c0a46fc0ca1712286447/arirang.720p.nimble.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="Acna" group-title="Quốc tê" group-logo="" tvg-logo="https://img.hplus.com.vn/355x200/poster/2022/08/19/937507-cna-logo.png", Acna
 https://1011154949.vnns.net/e8ce66a7fb02e833377e48c5057191921712286739/cnanewsasia.720p.adm.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="Acna" group-title="Quốc tê" group-logo="" tvg-logo="https://img.hplus.com.vn/355x200/poster/2022/09/23/108848-Logo-DW-Blue.png", DW
+#EXTINF:-1 tvg-id="DW" group-title="Quốc tê" group-logo="" tvg-logo="https://img.hplus.com.vn/355x200/poster/2022/09/23/108848-Logo-DW-Blue.png", DW
 https://1011154949.vnns.net/75256481768a4120ff466ae36b09cb701712286765/dw.720p.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="Acna" group-title="Quốc tê" group-logo="" tvg-logo="hhttps://img.hplus.com.vn/355x200/poster/2022/08/19/252125-france-24-logo.png", France24
+#EXTINF:-1 tvg-id="France24" group-title="Quốc tê" group-logo="" tvg-logo="hhttps://img.hplus.com.vn/355x200/poster/2022/08/19/252125-france-24-logo.png", France24
 https://1011154949.vnns.net/e0cedb0087a0aff1b4d8250ec98b58331712286787/france24sd.720p.adm.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="Acna" group-title="Quốc tê" group-logo="" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/09/06/328439-NHK-logo-web_1.png", NHK World
+#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc tê" group-logo="" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/09/06/328439-NHK-logo-web_1.png", NHK World
 https://1011154949.vnns.net/a62e5bd9a7f87cc5c0cdc0b0265f92471712286812/nhkworldsd.720p.adm.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="Acna" group-title="Quốc tê" group-logo="" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/728166-KBS.png", KBS World
-https://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tê" group-logo="" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/728166-KBS.png", KBS World
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc tê" group-logo="" tvg-logo="", HBO HD
+http://ip168.homeip.net:8086/hbo.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc tê" group-logo="" tvg-logo="", HBO 2
+http://168.227.22.18:1936/live/mobile-094/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc tê" group-logo="" tvg-logo="", CINEMAX
+http://ip168.homeip.net:8086/cinemax.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc tê" group-logo="" tvg-logo="", STAR MOVIES
+https://ctrl.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc tê" group-logo="" tvg-logo="", STAR WORLD
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc tê" group-logo="" tvg-logo="", KIX
+http://210.210.155.35/dr9445/h/h07/01.m3u8
