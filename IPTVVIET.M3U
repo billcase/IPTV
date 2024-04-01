@@ -2,7 +2,7 @@
 #EXTM3U Luôn cập nhật kênh ổn định - 
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/13/4rioq827_vtv1-1972a965935f7cfcf31fd8ff2ea455ece_296_168.png",VTV1
-https://1011154949.vnns.net/de96640898e96805a2a9ef769e4099d71712286185/vtv1hd.adm.tms/chunks.m3u8
+https://1011154949.vnns.net/3247282d81604d8546a04191da40b39f1712541801/vtc1hd.720p.adm.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/wwr58vyf_vtv249f41e6ff68d0b172d0c63dad0cf48d3_296_168.png",VTV2
 https://vtvgolive-vtv.vtvdigital.vn/uPqX4Ot85QtaKVOiyhiP3A/1711938494/vtvgo/vtv2-manifest.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" group-logo="https://github.com/billcase/IPTV/blob/main/VTV.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/15/8s0di0gq_thumb-v3b222f92c6f1851e3ae9b3a30496dc61d_296_168.png",VTV3
